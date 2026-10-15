@@ -10,3 +10,6 @@
 
 ## Workflow list
 01- Smart Chatbot for Companies
+
+- [63 - Free Local WhatsApp Customer Service (Ollama)](63_Free_WhatsApp_Customer_Service.json)
+  - [Arabic setup guide and self-hosted Docker Compose](63_Free_WhatsApp_Customer_Service/README_AR.md)
